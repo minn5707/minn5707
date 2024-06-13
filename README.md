@@ -1,3 +1,5 @@
+![lofi](https://github.com/minn5707/minn5707/assets/170194593/5f4bd31a-14d7-4cf5-a2e1-a21e7f2622de)
+
 ## Hi there 👋
 
 <!--
