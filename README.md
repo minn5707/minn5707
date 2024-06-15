@@ -1,4 +1,4 @@
-## Hi! Nice to meet you.
+## ![hi (1)](https://github.com/minn5707/minn5707/assets/170194593/bcba6497-fe6b-44c8-870d-72524c7bfc8b) Hi! Nice to meet you.
 Welcome to my GitHub page!
 
 I'm Min, student from Monash University majoring in Bachelor of Electrical and Computer Systems Engineering.
