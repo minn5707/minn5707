@@ -2,7 +2,7 @@
 ___
 Welcome to my GitHub page!
 I'm Min, student from Monash University majoring in Bachelor of Electrical and Computer Systems Engineering.
-I'm from ![kisspng-flag-of-south-korea-flag-of-north-korea-emoji-korean-5abf65a01763e0 9910572915224928320958](https://github.com/minn5707/minn5707/assets/170194593/927b314b-c48d-497d-be7b-214b4ed629e7) Korea, currently living in ![kisspng-flag-of-malaysia-emoji-flag-of-laos-portuguese-flag-5add2259221ff2 7642492115244416891398](https://github.com/minn5707/minn5707/assets/170194593/b4d5404d-5599-4b0c-82f7-50d098e8dfd3) Malaysia
+I'm from Korea, currently living in Malaysia.
 
 
 
