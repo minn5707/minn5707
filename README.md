@@ -1,4 +1,4 @@
-### Hi there 👋, Min
+### 👋 Hi!
 #### Welcome to my GitHub page.
 I'm Min from South Korea, undergraduate student from Monash University Malaysia majoring in Bachelor of Electrical and Computer Systems Engineering.
 
