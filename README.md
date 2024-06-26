@@ -8,7 +8,7 @@ I'm from ![flag-of-south-korea](https://github.com/minn5707/minn5707/assets/1701
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minn5707)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **minn5707/minn5707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
